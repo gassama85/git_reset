@@ -3,3 +3,4 @@ def fizz_buzz(input):
 		return ""[DFizzBuzz["
 	if input % 3 == 0:
 		return "Fizz"
+	return input
